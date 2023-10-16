@@ -1,0 +1,104 @@
+      * {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+      }
+      .chartMenu {
+        width: 100vw;
+        height: 40px;
+        background: #1A1A1A;
+        color: rgba(54, 162, 235, 1);
+      }
+      .chartMenu p {
+        padding: 10px;
+        font-size: 20px;
+      }
+      .chartCard {
+        /*width: 100vw;*/
+        height: calc(100vh - 40px);
+        /*background: rgba(54, 162, 235, 0.2);*/
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .chartBox {
+        width: 700px;
+        padding: 20px;
+        border-radius: 20px;
+        border: solid 3px rgba(54, 162, 235, 1);
+        background: white;
+      }
+  
+
+body, html {
+  height: 100%;
+}
+
+.parallax1 {
+  /* The image used */
+  background-image: url('../img/pic8.jpg');
+
+  /* Full height */
+  height: 100%,width:100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  /* The image used */
+  background-image: url('../img/ant-rozetsky-m_FlCd29fYk-unsplash.jpg');
+  background-color: #219C90;
+  /* Full height */
+  height: 100%,width:100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 {
+  /* The image used */
+  background-image: url('../img/pic3.jpg');*/
+
+  /* Full height */
+  height: 100%,width:100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax4 {
+  /* The image used */
+ /* background-image: url('../img/louis-hansel-SCc9AndIwJ4-unsplash.jpg');*/
+  background-color: #219C90;
+  /* Full height */
+  height: 100%,width:100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax5 {
+  /* The image used */
+  background-image: url('../img/pic14.jpg');*/
+
+  /* Full height */
+  height: 100%,width:100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
